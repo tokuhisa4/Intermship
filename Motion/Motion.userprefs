@@ -1,8 +1,9 @@
-﻿<Properties StartupItem="Motion.CSharp.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\UnitychanJump.js">
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\HandsUp.js">
     <Files>
-      <File FileName="Assets\UnitychanJump.js" Line="20" Column="1" />
+      <File FileName="Assets\HandsUp.js" Line="11" Column="29" />
+      <File FileName="Assets\UnitychanJump.js" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
